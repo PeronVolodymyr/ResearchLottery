@@ -3,10 +3,8 @@
 
 # Про курс
 ЕМПІ - обробка та аналіз експериментальних даних.
+
 В якості Dataframe були використані дані ігрової(лотерейної) платформи. 
-
-
-![Image of Yaktocat](https://github.com/bogature/ResearchLottery/all_info.jpg)
 
 ![alt text](https://raw.githubusercontent.com/bogature/ResearchLottery/master/all_info.jpg)
 
