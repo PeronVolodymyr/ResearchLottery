@@ -20,5 +20,11 @@
 - Python 3
 - Git
 
+##### Види результатів 
+
+![alt text](https://raw.githubusercontent.com/bogature/ResearchLottery/master/img/table.jpg)
+
+![alt text](https://raw.githubusercontent.com/bogature/ResearchLottery/master/img/graph.jpg)
+
 
 # Висновок
