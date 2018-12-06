@@ -6,7 +6,7 @@
 
 В якості Dataframe були використані дані ігрової(лотерейної) платформи. 
 
-![alt text](https://raw.githubusercontent.com/bogature/ResearchLottery/master/all_info.jpg)
+![alt text](https://raw.githubusercontent.com/bogature/ResearchLottery/master/img/all_info.jpg)
 
 ##### Позначення
 - № - ID користувача в системі
