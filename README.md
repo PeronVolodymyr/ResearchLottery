@@ -9,8 +9,10 @@
 ![alt text](https://raw.githubusercontent.com/bogature/ResearchLottery/master/all_info.jpg)
 
 
-- элемент 1
-- элемент 2
-- элемент ...
+- № - ID користувача в системі
+- User - Логін користувача
+- $0.1 - $8 - Категорії білетів лотереї
+- Add - сума поповнення
+
 
 # Висновок
