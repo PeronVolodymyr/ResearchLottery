@@ -8,4 +8,6 @@
 
 ![Image of Yaktocat](https://github.com/bogature/ResearchLottery/all_info.jpg)
 
+![alt text](https://raw.githubusercontent.com/bogature/ResearchLottery/master/all_info.jpg)
+
 # Висновок
