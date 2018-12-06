@@ -8,7 +8,7 @@
 
 ![alt text](https://raw.githubusercontent.com/bogature/ResearchLottery/master/all_info.jpg)
 
-
+### Позначення
 - № - ID користувача в системі
 - User - Логін користувача
 - $0.1 - $8 - Категорії білетів лотереї
