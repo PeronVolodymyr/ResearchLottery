@@ -22,8 +22,10 @@
 
 ##### Види результатів 
 
+### Таблична форма отримання результат:
 ![alt text](https://raw.githubusercontent.com/bogature/ResearchLottery/master/img/table.jpg)
 
+### Графічна форма отримання результат:
 ![alt text](https://raw.githubusercontent.com/bogature/ResearchLottery/master/img/graph.jpg)
 
 
