@@ -8,4 +8,9 @@
 
 ![alt text](https://raw.githubusercontent.com/bogature/ResearchLottery/master/all_info.jpg)
 
+
+- элемент 1
+- элемент 2
+- элемент ...
+
 # Висновок
