@@ -23,10 +23,10 @@
 
 ### :large_orange_diamond: Види результатів 
 
-##### Таблична форма результату:
+##### :white_check_mark: Таблична форма результату:
 ![alt text](https://raw.githubusercontent.com/bogature/ResearchLottery/master/img/table.jpg)
 
-##### Графічна форма результату:
+##### :white_check_mark: Графічна форма результату:
 ![alt text](https://raw.githubusercontent.com/bogature/ResearchLottery/master/img/graph.jpg)
 
 ### :large_orange_diamond: Результати дослідження
