@@ -8,20 +8,20 @@
 
 ![alt text](https://raw.githubusercontent.com/bogature/ResearchLottery/master/img/all_info.jpg)
 
-### Позначення
+### :large_orange_diamond: Позначення
 - № - ID користувача в системі
 - User - Логін користувача
 - $0.1 - $8 - Категорії білетів лотереї
 - Add - Сума поповнення кабінета користувачем
 
-### Використані технології
+### :large_orange_diamond: Використані технології
 - Google colab
 - Classroom
 - Python 3
 - Git
 - Бібліотека pandas
 
-### Види результатів 
+### :large_orange_diamond: Види результатів 
 
 ##### Таблична форма результату:
 ![alt text](https://raw.githubusercontent.com/bogature/ResearchLottery/master/img/table.jpg)
