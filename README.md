@@ -29,7 +29,7 @@
 ##### Графічна форма результату:
 ![alt text](https://raw.githubusercontent.com/bogature/ResearchLottery/master/img/graph.jpg)
 
-##### :large_orange_diamond: Результати дослідження
+### :large_orange_diamond: Результати дослідження
 В результаті виконання лабораторних досліджено:
 - в яких категоріях відбувалися лотереї найчастіше (графік)
 - мода
