@@ -1,4 +1,5 @@
 # :heavy_check_mark: ЕМПІ
+##### [Проект в Google Colab](https://colab.research.google.com/drive/1YL1zLUT_ToZLp6ZTJhodsFd6e3kSUusF)
 Дослідження проводилися в рамках курсу [(Емпіричні методи програмної інженерії)](https://gitlab.com/targetflow/emise)
 
 # :heavy_check_mark: Про курс
