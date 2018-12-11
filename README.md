@@ -34,7 +34,7 @@
 Була проведена робота такоє із візуалізацією даних. 
 Для зручності проект розроблявся в Google Colab який дозволяє запустити ввесь код в online і переглянути результати. 
 
-#### [Проект Google Colab](https://colab.research.google.com/drive/1YL1zLUT_ToZLp6ZTJhodsFd6e3kSUusF)
+#### [Проект в Google Colab](https://colab.research.google.com/drive/1YL1zLUT_ToZLp6ZTJhodsFd6e3kSUusF)
 
 ### :large_orange_diamond: Основні пункти проекту
 - Вибірки (Проста, Стратифікована, Групова)
