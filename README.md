@@ -43,7 +43,7 @@
 
 Дозволив оцінити можливість здачі лабораторних як в аудиторії так і online.
 
-# :key: Контакти
+# :speech_balloon: Контакти
 Andry Onishchuk o.bogature@gmail.com
 
 # :key: Ліцензія
