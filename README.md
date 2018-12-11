@@ -1,4 +1,4 @@
-# ЕМПІ
+# :heavy_check_mark: ЕМПІ
 Дослідження проводилися в рамках курсу [(Емпіричні методи програмної інженерії)](https://gitlab.com/targetflow/emise)
 
 # :heavy_check_mark: Про курс
@@ -36,7 +36,7 @@
 - медіана
 т.д [(інші завдання)](https://colab.research.google.com/drive/1YL1zLUT_ToZLp6ZTJhodsFd6e3kSUusF)
 
-# Висновок
+# :heavy_check_mark: Висновок
 Даний курс познайомив мене з технологією роботи з експериментальними даними. 
 
 Показав всю силу Jupyter Notebook. 
