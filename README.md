@@ -33,6 +33,8 @@
 Частину основних принципів обробки даних було застосовано в даному прокті.
 Була проведена робота такоє із візуалізацією даних. 
 Для зручності проект розроблявся в Google Colab який дозволяє запустити ввесь код в online і переглянути результати. 
+[Проект](https://colab.research.google.com/drive/1YL1zLUT_ToZLp6ZTJhodsFd6e3kSUusF)
+
 ### :large_orange_diamond: Види результатів 
 
 ##### :white_check_mark: Таблична форма результату:
@@ -40,14 +42,6 @@
 
 ##### :white_check_mark: Графічна форма результату:
 ![alt text](https://raw.githubusercontent.com/bogature/ResearchLottery/master/img/graph.jpg)
-
-### :large_orange_diamond: Результати дослідження
-В результаті виконання лабораторних досліджено:
-- в яких категоріях відбувалися лотереї найчастіше (графік)
-- мода
-- медіана
-т.д [(інші завдання)](https://colab.research.google.com/drive/1YL1zLUT_ToZLp6ZTJhodsFd6e3kSUusF)
-
 
 # :heavy_check_mark: TODO
 
