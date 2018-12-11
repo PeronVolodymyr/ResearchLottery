@@ -43,5 +43,8 @@
 
 Дозволив оцінити можливість здачі лабораторних як в аудиторії так і online.
 
+# :key: Контакти
+Andry Onishchuk o.bogature@gmail.com
+
 # :key: Ліцензія
 Проект ліцензовано згідно з умовами GNU General Public License
